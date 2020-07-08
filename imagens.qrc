@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Projeto_design/F7.png</file>
+        <file>Projeto_design/Fnd1.png</file>
+        <file>Projeto_design/Fnd8.png</file>
+        <file>Projeto_design/Fundo2.png</file>
+        <file>Projeto_design/Fundo3.png</file>
+        <file>Projeto_design/Fundo4.png</file>
+        <file>Projeto_design/Fundo5.png</file>
+        <file>Projeto_design/Fundo6.png</file>
+        <file>Projeto_design/green_circle.png</file>
+        <file>Projeto_design/pause.png</file>
+        <file>Projeto_design/play.png</file>
+        <file>Projeto_design/red_circle_icon.png</file>
+    </qresource>
+</RCC>
